@@ -1,7 +1,7 @@
-# CS105.M21.KHCL
+# CS331.M22.KHCL
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn**: Thị giác máy tính nâng cao ( Advanced Data Structure and Algorithms )
+* **Tên môn**: Thị giác máy tính nâng cao ( Advanced Computer Vision )
 * **Mã môn**: CS331
 * **Lớp học**: CS331.M22.KHCL
 * **Năm học**: 2021-2022
