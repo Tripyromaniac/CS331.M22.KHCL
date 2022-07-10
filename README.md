@@ -13,9 +13,9 @@
 
 | STT    | MSSV          | Họ và Tên              | GitHub                  |
 | ------ |:-------------:|:----------------------:|:-------------------------:|
-| 1      | 19522448      | Trần Văn Truyền          |https://github.com/Tripyromaniac|
+| 1      | 19522448      | Trần Văn Truyền          ||
 | 2      | 19522255      | Hoàng Ngọc Bá Thi        ||
-| 3      | 19522390      | Phạm Minh Trí      ||
+| 3      | 19522390      | Phạm Minh Trí      |https://github.com/Tripyromaniac|
 
 ##
 
